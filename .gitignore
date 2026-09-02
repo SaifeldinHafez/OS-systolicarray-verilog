@@ -1,0 +1,7 @@
+*.html
+*.vvp
+*.out
+/modules
+/netlist
+/icarus
+/.vscode
