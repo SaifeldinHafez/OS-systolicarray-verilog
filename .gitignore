@@ -5,3 +5,5 @@
 /netlist
 /icarus
 /.vscode
+*.vcd
+*.view
